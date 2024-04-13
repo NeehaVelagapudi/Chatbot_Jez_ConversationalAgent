@@ -37,3 +37,6 @@ Start interacting with the chatbot by typing messages in the input field and pre
 This project developed by Neeha Velagapudi. 
 
 It utilizes the OpenAI API for natural language processing.
+
+# Contributions
+Contributions to improve the script are welcome! If you have suggestions for new features, bug fixes, or optimizations, please feel free to open an issue or submit a pull request.
